@@ -1,3 +1,3 @@
 ## Pinout Node MCU
 
-![](/images/NodeMCUv1.0-pinout.jpg)
+![](/PlatformIO/ESP/images/NodeMCUv1.0-pinout.jpg)
