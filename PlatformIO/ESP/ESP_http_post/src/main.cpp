@@ -15,8 +15,10 @@
 #include <ESP8266HTTPClient.h>
 #include <WiFiClient.h>
 
-const char* ssid = "LSK 7028";
-const char* password = "wesharetechnology";
+// const char* ssid = "LSK 7028";
+// const char* password = "wesharetechnology";
+const char* ssid = "Wi-Fi Repeater";
+const char* password = "charlietheunicorn";
 
 //Your Domain name with URL path or IP address with path
 const char* serverName = "http://148.70.180.108:8000/lab/hwinfo";
